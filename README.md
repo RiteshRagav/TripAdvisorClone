@@ -34,3 +34,5 @@ This project was developed to:
     Learn how to create fully responsive websites without JS
 
     Recreate a well-known website UI with clean, semantic HTML and scalable CSS
+
+TO VIEW MY  PROJECT CLICK THE LINK HERE :  >https://riteshragav.github.io/TripAdvisorClone/<
